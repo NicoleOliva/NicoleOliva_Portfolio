@@ -1,4 +1,4 @@
-# NicoleOliva_Proyecto_Portfolio
+# NicoleOliva_Portfolio
  Muestras de trabajos gráficos.
 
 ![Imagen del proyecto]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
