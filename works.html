@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Document</title>
+    <link href="css/index.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/gimbal-extended" rel="stylesheet">
+    <script defer src="js/works.js"></script>
+</head>
+
+<body>
+    <!-- Header con el menú de navegación de la web -->
+    <header class="Header">
+
+        <div class="Header-wrapper">
+
+            <a class="Header-button" href="#" title="button">
+                <svg class="Header-dots" fill="currentColor" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.5 13a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0-5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
+                </svg>
+            </a>
+
+            <div class="Header-nav">
+
+                <ul class="Header-ul">
+                    <!-- Cada li redirige al link especificado home, about y contact -->
+                    <li class="Header-li">
+                        <a class="Header-link" href="index.html" title="index">home</a>
+                    </li>
+
+                    <li class="Header-li">
+                        <a class="Header-link" href="about.html" title="about">about</a>
+                    </li>
+
+                    <li class="Header-li">
+                        <a class="Header-link" href="contact.html" title="works">contact</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+
+        </div>
+
+
+    </header>
+
+
+    <!-- Parte principal de la página. Aquí se muestran algunas de las marcas con
+        las que se muestran trabajos destacados, podemos ver un lightbox que muestra un preview
+        y luego en el botón FULL PROJECT podemos ver una muestra del proyecto con un poco más
+        de detalles -->
+
+
+    <div class="Grid">
+
+        <div class="Grid-wrapper">
+
+            <h1 class="Grid-h1">
+                <img alt="works" class="Grid-works" src="assets/works.webp">
+            </h1>
+
+            <ul class="Grid-ul">
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="micks">
+                        <img alt="micks sparkling water" class="Grid-img" src="assets/works_micks.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="puma">
+                        <img alt="la revisión mas importante" class="Grid-img" loading="lazy"
+                             src="assets/works_puma.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="cat">
+                        <img alt="brand" class="Grid-img" loading="lazy" src="assets/works_plantosa.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="micks">
+                        <img alt="micks sparkling water" class="Grid-img" loading="lazy" src="assets/works_coscafe.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="puma">
+                        <img alt="la revisión mas importante" class="Grid-img" loading="lazy"
+                             src="assets/works_menjurje.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="cat">
+                        <img alt="brand" class="Grid-img" loading="lazy" src="assets/works_santacruz.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="micks">
+                        <img alt="micks sparkling water" class="Grid-img" loading="lazy" src="assets/works_barena.webp">
+                    </a>
+                </li>
+                <li class="Grid-li">
+                    <a class="Grid-a" href="#" title="puma">
+                        <img alt="la revisión mas importante" class="Grid-img" loading="lazy"
+                             src="assets/works_tutunik.webp">
+                    </a>
+                </li>
+
+            </ul>
+
+
+            <!-- En el Lightbox se alojan los preview y los enlaces para ver los proyectos completos -->
+
+            <div class="Lightbox">
+
+                <div class="Lightbox-wrapper">
+
+                    <button class="Lightbox-close">
+                        <svg class="Lightbox_svg" fill="currentColor" viewBox="0 0 16 16"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM5.354 4.646a.5.5 0 1 0-.708.708L7.293 8l-2.647
+                                2.646a.5.5 0 0 0 .708.708L8 8.707l2.646 2.647a.5.5 0 0 0 .708-.708L8.707 8l2.647-2.646a.5.5
+                                0 0 0-.708-.708L8 7.293 5.354 4.646z"/>
+                        </svg>
+                    </button>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="micks.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy" src="assets/micks_latas.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="puma.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/puma_revision_camisetas.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="plantosa.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy" src="assets/plantosa_papeleria.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="coscafe.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/coscafe_insumos_promocionales.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="menjurje.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/menjurje_productos_Preview.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="santa_cruz.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/santacruz_empaque_Preview.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+
+                        <div class="Lightbox-button">
+
+                            <div class="Lightbox-a">
+
+                                <a class="Lightbox-fullhtml" href="barena.html">
+                                    full project
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/barena_valla_Preview.webp">
+
+                    </div>
+
+
+                    <div class="Lightbox-project">
+                        <div class="Lightbox-button">
+                            <div class="Lightbox-a">
+                                <a class="Lightbox-fullhtml" href="tutunik.html">
+                                    full project
+                                </a>
+                            </div>
+                        </div>
+
+                        <img alt="imagen grande" class="Lightbox-img" loading="lazy"
+                             src="assets/tutunik_brand_Preview.webp">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
