@@ -3,8 +3,6 @@
 
 [![Imagen del proyecto](https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/portada_proyecto.png)]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
 
-## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto]([URL-de-github-pages-de-este-proyecto](https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
 
 ## Description 📑
 
