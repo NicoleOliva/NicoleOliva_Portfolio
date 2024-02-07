@@ -46,7 +46,7 @@ If you want to take a look at the project, I recommend:
 * [Behance](https://www.behance.net/NikkiO95)
 * [Porfolio web](https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html)
 
-## Facility
+## Facility 📄
 This project does not require installation. Simply open the folder or double click on the .html
 
 ## License 📄
