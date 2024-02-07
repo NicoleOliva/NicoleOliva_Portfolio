@@ -2,7 +2,7 @@
  Muestras de trabajos gráficos.
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
-[![Imagen del proyecto]( <img src="assets/barena_kv.webp" alt="vineta sabor toronja y sabor natural"   class="Barena-img"     loading="lazy">)]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
+[![Imagen del proyecto]()]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto]([URL-de-github-pages-de-este-proyecto](https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
