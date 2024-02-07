@@ -42,14 +42,13 @@ If you want to take a look at the project, I recommend:
 ## Autor ✒️
 **Nicole Oliva**
 
-* [oliva.3_4@hotmail.com](oliva.3_4@hotmail.com)
 * [LinkedIn](https://www.linkedin.com/in/olivanicole0304/?originalSubdomain=es)
 * [Behance](https://www.behance.net/NikkiO95)
 * [Porfolio web](https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html)
 
-## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
-  
-## Licencia 📄
+## Facility
+This project does not require installation. Simply open the folder or double click on the .html
+
+## License 📄
 MIT Public License v3.0
-No puede usarse comencialmente.
+It cannot be used commercially.
