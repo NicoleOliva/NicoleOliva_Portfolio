@@ -35,18 +35,17 @@ Overall, this project has provided i with a comprehensive understanding of front
 ## Project preview 👀
 If you want to take a look at the project, I recommend:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/works%20screen.png)
+![Captura del proyecto](https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/barena%20preview.png)
+![Captura del proyecto](https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/barena%20works.png)
 
 ## Autor ✒️
-**TU NOMBRE**
+**Nicole Oliva**
 
-* [micorreo@midominio.com](micorreo@midominio.com)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-* [Behance](https://www.behance.net/tu-url-de-behance)
-* [Dribble](https://www.dribble.com/tu-url-de-dribble)
-* [Porfolio web](https://tu-dominio.com/)
+* [oliva.3_4@hotmail.com](oliva.3_4@hotmail.com)
+* [LinkedIn](https://www.linkedin.com/in/olivanicole0304/?originalSubdomain=es)
+* [Behance](https://www.behance.net/NikkiO95)
+* [Porfolio web](https://nicoleoliva.github.io/NicoleOliva_Portfolio/index.html)
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
