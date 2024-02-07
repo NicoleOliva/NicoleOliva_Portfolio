@@ -1,28 +1,39 @@
-# NicoleOliva_Portfolio
- Muestras de trabajos gráficos.
+# Front-End Development of Personal Portfolio Website
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
-[![Imagen del proyecto]()]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
+
+[![Imagen del proyecto](https://github.com/NicoleOliva/NicoleOliva_Portfolio/blob/main/assets/portada_proyecto.png)]((https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto]([URL-de-github-pages-de-este-proyecto](https://nicoleoliva.github.io/NicoleOliva_Proyecto_Portfolio/))
 
-## Descripción 📑
+## Description 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+The project consists of the front-end development of a website that serves as a personal portfolio to showcase projects, skills and professional experience. The page will be designed to be visually appealing, easy to navigate and optimized for different devices and screen sizes.
 
-## ¿Qué he aprendido en este proyecto? 🙇🏻 
+## What have I learned in this project? 🙇🏻 
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+In this project, i have learned several valuable skills and concepts in front-end development and website design. Some of the key learnings include:
 
-## Tecnologías 🛠
+
+💡 HTML, CSS, and JavaScript: I have gained proficiency in using these core web technologies to build the structure, style, and interactivity of the website.
+
+💡 Responsive Web Design: I have learned how to create websites that adapt and respond to different devices and screen sizes, ensuring a consistent user experience across platforms.
+
+💡 User Experience (UX) Design: I have gained insights into designing user-friendly interfaces and optimizing navigation flow to enhance the overall user experience.
+
+💡 Project Management: I have developed skills in project planning, organization, and execution, managing tasks such as defining project requirements, setting goals, and meeting deadlines.
+
+
+Overall, this project has provided i with a comprehensive understanding of front-end development and website design principles, equipping you with valuable skills that are highly sought after in the digital industry.
+
+## Technologies Used 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
-## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
+## Project preview 👀
+If you want to take a look at the project, I recommend:
 
 ![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 ![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
